@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[branch "main"]
+	gk-last-accessed = 2026-02-11T13:10:34.119Z
+	remote = origin
+	merge = refs/heads/main
+[remote "origin"]
+	url = https://github.com/marouan-folane/facture-app.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
