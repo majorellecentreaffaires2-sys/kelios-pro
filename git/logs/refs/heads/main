@@ -1,0 +1,51 @@
+0000000000000000000000000000000000000000 e7d4bcdf3c1fb29c8b2bce4a04c8d1ca457432a8 marouane <marouanfolane@gmail.com> 1770281243 +0100	commit (initial): first commit
+e7d4bcdf3c1fb29c8b2bce4a04c8d1ca457432a8 e7d4bcdf3c1fb29c8b2bce4a04c8d1ca457432a8 marouane <marouanfolane@gmail.com> 1770281243 +0100	Branch: renamed refs/heads/master to refs/heads/main
+e7d4bcdf3c1fb29c8b2bce4a04c8d1ca457432a8 e7d4bcdf3c1fb29c8b2bce4a04c8d1ca457432a8 marouane <marouanfolane@gmail.com> 1770281258 +0100	Branch: renamed refs/heads/main to refs/heads/main
+e7d4bcdf3c1fb29c8b2bce4a04c8d1ca457432a8 8c32c5caf0e6481b52de59968909eb7ee2c45698 marouane <marouanfolane@gmail.com> 1770281268 +0100	commit: new modif
+8c32c5caf0e6481b52de59968909eb7ee2c45698 d412388599bd2e32da51bc144be8f418f73d8fe5 marouane <marouanfolane@gmail.com> 1770281357 +0100	commit: new modif
+d412388599bd2e32da51bc144be8f418f73d8fe5 e66c071111e68522e386fc1e3adaa2347a17082b marouane <marouanfolane@gmail.com> 1770281371 +0100	pull origin main --rebase (finish): refs/heads/main onto 32c6bd6b51c073f38fe58be2eb4e8b948d517ede
+e66c071111e68522e386fc1e3adaa2347a17082b 4d0d1c6578aa437a791d88432cf0f5a7a4bfd747 marouan-folane <marouanfolane@gmail.com> 1771345146 +0100	commit: first commit
+4d0d1c6578aa437a791d88432cf0f5a7a4bfd747 4d0d1c6578aa437a791d88432cf0f5a7a4bfd747 marouan-folane <marouanfolane@gmail.com> 1771345146 +0100	Branch: renamed refs/heads/main to refs/heads/main
+4d0d1c6578aa437a791d88432cf0f5a7a4bfd747 4d0d1c6578aa437a791d88432cf0f5a7a4bfd747 marouan-folane <marouanfolane@gmail.com> 1771345155 +0100	Branch: renamed refs/heads/main to refs/heads/main
+4d0d1c6578aa437a791d88432cf0f5a7a4bfd747 d30167a9c3fc551833ad17e8dbd7c3d9644224eb marouan-folane <marouanfolane@gmail.com> 1771345171 +0100	commit: first commit
+d30167a9c3fc551833ad17e8dbd7c3d9644224eb d30167a9c3fc551833ad17e8dbd7c3d9644224eb marouan-folane <marouanfolane@gmail.com> 1771345171 +0100	Branch: renamed refs/heads/main to refs/heads/main
+d30167a9c3fc551833ad17e8dbd7c3d9644224eb 1bf88a91ecc7482b9b9ae7d0c785c05a65cab2d9 marouan-folane <marouanfolane@gmail.com> 1771345225 +0100	commit: local changes
+1bf88a91ecc7482b9b9ae7d0c785c05a65cab2d9 a7338e0ed5e8668ed8c2230f810f836a2672cfc1 marouan-folane <marouanfolane@gmail.com> 1771680484 +0100	commit: first commit
+a7338e0ed5e8668ed8c2230f810f836a2672cfc1 a7338e0ed5e8668ed8c2230f810f836a2672cfc1 marouan-folane <marouanfolane@gmail.com> 1771680485 +0100	Branch: renamed refs/heads/main to refs/heads/main
+a7338e0ed5e8668ed8c2230f810f836a2672cfc1 66b0be1160ab55d6f26a9cde2a7e7dc013e7f032 marouan-folane <marouanfolane@gmail.com> 1771680521 +0100	commit: add projects
+66b0be1160ab55d6f26a9cde2a7e7dc013e7f032 4efa18392eec43aa565f0a80a4158aaabe3f6d4c marouan-folane <marouanfolane@gmail.com> 1771682073 +0100	commit: add projects
+4efa18392eec43aa565f0a80a4158aaabe3f6d4c edfc4172163020d399f99532bf325c7b4677eaf5 marouan-folane <marouanfolane@gmail.com> 1771686075 +0100	pull origin main: Fast-forward
+edfc4172163020d399f99532bf325c7b4677eaf5 2ddf74f1e44d0206aea471ecc93cda1cca8ffd1f marouan-folane <marouanfolane@gmail.com> 1771941230 +0100	commit: skills and roadmap
+2ddf74f1e44d0206aea471ecc93cda1cca8ffd1f c48a3bac561a7a8b1f814125d207e4b70a6713dc marouan-folane <marouanfolane@gmail.com> 1771942216 +0100	pull origin main: Fast-forward
+c48a3bac561a7a8b1f814125d207e4b70a6713dc dc5bd4a2e96dba9321f4782540be48b97faf491f marouan-folane <marouanfolane@gmail.com> 1771944187 +0100	commit: skills and roadmap
+dc5bd4a2e96dba9321f4782540be48b97faf491f 3254ea181fdb1273f7094b521fbd03b5a357fd91 marouan-folane <marouanfolane@gmail.com> 1771944637 +0100	commit: Fix database migrations for companies and clients tables
+3254ea181fdb1273f7094b521fbd03b5a357fd91 68875d9eef230df9903bc29f2c16f4b11d5402b9 marouan-folane <marouanfolane@gmail.com> 1772014796 +0100	commit: Fix onboarding flow: refreshPortfolio after registration + non-blocking password update
+68875d9eef230df9903bc29f2c16f4b11d5402b9 daab4bf5c76acad753f2f23a074cdaa4a7602438 marouan-folane <marouanfolane@gmail.com> 1772017483 +0100	commit: appurl
+daab4bf5c76acad753f2f23a074cdaa4a7602438 78a1a38cd95ce23587dc5a8a208c5676b5632aae marouan-folane <marouanfolane@gmail.com> 1772018283 +0100	commit: Fix upload 500 error and absolute URLs for forgot password/public links
+78a1a38cd95ce23587dc5a8a208c5676b5632aae 04ff891fc8577b179f36efd03689ff06891b82af marouan-folane <marouanfolane@gmail.com> 1772018335 +0100	commit: Enhance upload error handling and add global error handler
+04ff891fc8577b179f36efd03689ff06891b82af 3c25c7470df5ed700d6a9471987bf4ae27bb42be marouan-folane <marouanfolane@gmail.com> 1772018529 +0100	commit: Fix hardcoded localhost URLs and add APP_URL debug log
+3c25c7470df5ed700d6a9471987bf4ae27bb42be 7e03f630138ed50fe89eb858873381936a7ec1aa marouan-folane <marouanfolane@gmail.com> 1772021161 +0100	commit: Implement documentNature to distinguish between Devis and Facture across all types (Batiment, Dev, etc.) and update numbering/labels
+7e03f630138ed50fe89eb858873381936a7ec1aa 2c647e74595be8e40001cfca1dc4fd354ced2a73 marouan-folane <marouanfolane@gmail.com> 1772021742 +0100	commit: Fix MySQL incompatible JSON default value in reminder_settings
+2c647e74595be8e40001cfca1dc4fd354ced2a73 d389b3c5b69daa8abc616fce2e2c4a1ed76be9d5 marouan-folane <marouanfolane@gmail.com> 1772022473 +0100	commit: Fix documentNature persistence: add DB column and update API routes
+d389b3c5b69daa8abc616fce2e2c4a1ed76be9d5 5d79f045f3183e01542ca513b09bf861a010544f marouan-folane <marouanfolane@gmail.com> 1772024505 +0100	commit: Remove 900- prefix from invoice numbering
+5d79f045f3183e01542ca513b09bf861a010544f 1066ed1bd6cd00ea43245e2790814fbf1858c78c marouan-folane <marouanfolane@gmail.com> 1772028342 +0100	commit: espace and description
+1066ed1bd6cd00ea43245e2790814fbf1858c78c 967e3249cbaf8e0792a582bb80a6b454da69ed3d marouan-folane <marouanfolane@gmail.com> 1772029476 +0100	commit: espace and description
+967e3249cbaf8e0792a582bb80a6b454da69ed3d 84d0a0a281f3b3befcb2d7e69c0de4175d990f5b marouan-folane <marouanfolane@gmail.com> 1772112211 +0100	commit: accounting and upload
+84d0a0a281f3b3befcb2d7e69c0de4175d990f5b aed7300306d60410753b51f34de9f62fed3cc709 marouan-folane <marouanfolane@gmail.com> 1772112456 +0100	commit: Update roadmap: Account Settings and Upload marked as DONE
+aed7300306d60410753b51f34de9f62fed3cc709 65acc1f4dfd1b811ff86d748391d4acf2fd80927 marouan-folane <marouanfolane@gmail.com> 1772112651 +0100	commit: Add Responsive PWA to roadmap
+65acc1f4dfd1b811ff86d748391d4acf2fd80927 dc8a5492d4587f363624fda228b86308d2fa80bd marouan-folane <marouanfolane@gmail.com> 1772200080 +0100	commit: add plan limit
+dc8a5492d4587f363624fda228b86308d2fa80bd ed9ce7deffd66658abae944edbe3b14c6da2bbaf marouan-folane <marouanfolane@gmail.com> 1772279190 +0100	commit: invoice chnages
+ed9ce7deffd66658abae944edbe3b14c6da2bbaf 2309ba6c4663d283f3f4fb63517edf770a876129 marouan-folane <marouanfolane@gmail.com> 1772279824 +0100	commit: invoice chnages
+2309ba6c4663d283f3f4fb63517edf770a876129 12979bb0338028d9e19d6fc27f9d80223f5e8327 marouan-folane <marouanfolane@gmail.com> 1772281106 +0100	commit: invoice chnages
+12979bb0338028d9e19d6fc27f9d80223f5e8327 61fa82c9d2f738a559129130420e65201f202577 marouan-folane <marouanfolane@gmail.com> 1772319325 +0100	commit: logo color left aligned
+61fa82c9d2f738a559129130420e65201f202577 4f5ceedb1edb3d9e90ff21bd236ca74a0ad461a9 marouan-folane <marouanfolane@gmail.com> 1772395779 +0100	commit: phone and email meme ligne
+4f5ceedb1edb3d9e90ff21bd236ca74a0ad461a9 5bafbc8e6c9072694d98eeca6fd975eae62d7af0 marouan-folane <marouanfolane@gmail.com> 1772395825 +0100	commit: phone and email meme ligne
+5bafbc8e6c9072694d98eeca6fd975eae62d7af0 0158ae574ec0aa8ad97be2ca3a47454ee97bb6b3 marouan-folane <marouanfolane@gmail.com> 1772399417 +0100	commit: landing page
+0158ae574ec0aa8ad97be2ca3a47454ee97bb6b3 a6bc5f3f110929b70d05bd018cb60e453933de15 marouan-folane <marouanfolane@gmail.com> 1772478112 +0100	commit: marign delete
+a6bc5f3f110929b70d05bd018cb60e453933de15 713fe6b435977eb410678172008e6489db28b840 marouan-folane <marouanfolane@gmail.com> 1772483720 +0100	commit: number facture customize
+713fe6b435977eb410678172008e6489db28b840 74ac6c03104b60db56195a4123ad76cf75cd904b marouan-folane <marouanfolane@gmail.com> 1772569492 +0100	commit: marigns smallist and client put
+74ac6c03104b60db56195a4123ad76cf75cd904b 3a84a18d84f562f5ffdd1e516c7fb54676ae70da marouan-folane <marouanfolane@gmail.com> 1772569863 +0100	commit: marigns smallist and client put
+3a84a18d84f562f5ffdd1e516c7fb54676ae70da 6075e95c81246444c0f785d01f133860a922f443 marouan-folane <marouanfolane@gmail.com> 1772745107 +0100	commit: client eidt and pwa
+6075e95c81246444c0f785d01f133860a922f443 e74f19b45208c7b2c8eb8f736782309bb6e6b735 marouan-folane <marouanfolane@gmail.com> 1772747767 +0100	commit: client eidt and pwa
+e74f19b45208c7b2c8eb8f736782309bb6e6b735 f1027e8eb48d00e55fc1c0f66027e82e8b3daabe marouan-folane <marouanfolane@gmail.com> 1772838356 +0100	commit: feat: Add Workbox-powered service worker for caching and offline support.
+f1027e8eb48d00e55fc1c0f66027e82e8b3daabe 5e1e1f4080b888e847a68c74558577e9a4868766 marouan-folane <marouanfolane@gmail.com> 1772839639 +0100	commit: feat: add API routes for invoice management, automation features, reports, and general settings.
